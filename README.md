@@ -1,4 +1,9 @@
-## Hello World! 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Park%20Hee-Chan%20&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff)
+
+#### GitHub is under construction. Please refer to the Notion below!
+
+### Portfolio
+[Notion](https://courageous-gum-c89.notion.site/SSAFEE-898b736fc15245c599f341a8e39aba72?pvs=4)
 
 <!--
 **phc5403/phc5403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
