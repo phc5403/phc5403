@@ -3,7 +3,7 @@
 #### GitHub is under construction. Please refer to the Notion below!
 
 ### Portfolio
-[Notion](https://courageous-gum-c89.notion.site/SSAFEE-898b736fc15245c599f341a8e39aba72?pvs=4)
+[Notion](https://courageous-gum-c89.notion.site/3b2f04f5ba144f009d2424c9a5e31f43?pvs=4)
 
 <!--
 **phc5403/phc5403** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
