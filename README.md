@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Park%20Hee-Chan%20&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff)
 
-#### GitHub is under construction. Please refer to the Notion below!
-
-### Portfolio
 [Notion](https://courageous-gum-c89.notion.site/3b2f04f5ba144f009d2424c9a5e31f43?pvs=4)
 
 <!--
