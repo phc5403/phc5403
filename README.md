@@ -1,15 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Park%20Hee-Chan%20&fontSize=32&animation=fadeIn&fontAlignY=36&fontColor=ffffff)
 
 #### :mag_right:	About Me
-- 카페인의 장점만을 가져, 항상 집중하고 활력있는 개발자가 되기 위해 노력합니다.
-- In particular, we strive for developers who are always focused and informed.
+- 새로운 언어와 기술 등 변화를 두려워 하지않고, 꾸준히 성장하는 개발자를 지향합니다.
+- 작은 기능이라도, 사용자 관점에서 개발하기 위해 노력합니다.
+- 개발 전 과정에서 기록 및 문서화를 중요하게 생각합니다.
 <hr>
 
 #### :mortar_board: Experience
-- 2023.07 ~ 2024.06 : 삼성 청년 SW 아카데미 10기 수료(samsung software academy for youth, 10th)
-- 2019.03 ~ 2019.12 : 멋쟁이사자처럼 7th - 운영진 대표 (LIKELION 7th - Management team leader)
-- 2018.03 ~ 2018.12 : 멋쟁이사자처럼 6th - 교육생 (LIKELION 6th - Trainee)
-- 2013.03 ~ 2020.02 : 경성대학교 소프트웨어학과(Kyungsung University, Department of Computer Science and Engineering)
+- 2023.07 ~ 2024.06 : 삼성 청년 SW 아카데미 10기 수료
+- 2019.03 ~ 2019.12 : 멋쟁이사자처럼 7th - 운영진 대표
+- 2018.03 ~ 2018.12 : 멋쟁이사자처럼 6th - 교육생 
+- 2013.03 ~ 2020.02 : 경성대학교 소프트웨어학과
 <hr>
 
 #### :trophy: Certificates
