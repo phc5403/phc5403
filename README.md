@@ -30,7 +30,7 @@
 
 <hr>
 
-#### 🔗 [Notion](https://courageous-gum-c89.notion.site/3b2f04f5ba144f009d2424c9a5e31f43?pvs=4)
+#### 🔗 [Portfolio](https://courageous-gum-c89.notion.site/3b2f04f5ba144f009d2424c9a5e31f43?pvs=4) (Notion)
 
 
 
